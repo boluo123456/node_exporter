@@ -58,4 +58,8 @@ jobs:
         with:
           files: |
             dist/node_exporter-*.linux-arm64.tar.gz
+<<<<<<< HEAD
           generate_release_notes: true
+=======
+          generate_release_notes: true
+>>>>>>> 70a0e25fc48a74f6e7741ae832f86e72aecfd45f
